@@ -1,2 +1,2 @@
 # Chess1
-All figures
+All figures 1
